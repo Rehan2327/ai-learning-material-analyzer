@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+uploads/*
+!uploads/.gitkeep
+*.db
+.pytest_cache/
+.vscode/
+.idea/
+.ipynb_checkpoints/
+*.egg-info/
